@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TransitFlow</string>
+    <string name="passenger_portal">Passenger</string>
+    <string name="driver_portal">Driver Portal</string>
+    <string name="fleet_admin">Operations Hub</string>
+    <string name="login_title">TransitFlow Sign-In</string>
+</resources>
